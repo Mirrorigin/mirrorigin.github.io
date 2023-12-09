@@ -15,11 +15,11 @@ main:
  # - title: "Blog Posts"
  #   url: /year-archive/
     
-  - title: "Academics"
-    url: /cv/
+ # - title: "Academics"
+ #   url: /cv/
     
  # - title: "Guide"
  #   url: /markdown/
 
-  - title: "More"
-    url: /more/
+ # - title: "More"
+ #   url: /more/
