@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Jingming Liang's Page"
 title_separator          : "-"
 name                     : &name "Jingming Liang"
 description              : &description "personal description"
