@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Life-Long Learning for Reasoning-Based Semantic Communication"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'This paper is about a novel architecture for semantic communication.'
+date: 2022-5
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://arxiv.org/pdf/2202.01952.pdf'
+citation: 'Jingming Liang, Yong Xiao, Yingyu Li, Guangming Shi, and Mehdi Bennis, ICC Workshop, Seoul, South Korea, May 2022.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about a novel architecture for semantic communication.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/pdf/2202.01952.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Jingming Liang, Yong Xiao, Yingyu Li, Guangming Shi, and Mehdi Bennis, "Life-Long Learning for Reasoning-Based Semantic Communication," IEEE International Conference on Communications (ICC) Workshop, Seoul, South Korea, May 2022.
