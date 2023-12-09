@@ -11,49 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- M. Sc. in Communication Engineering, 2020-2023
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  Huazhong University of Science and Technology, Wuhan, Hubei, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- B. Sc. in Electronic Information Engineering, 2016-2020
 
-Publications
+  Huazhong University of Science and Technology, Wuhan, Hubei, China
+
+Paper
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+- ***Jingming Liang***, Yong Xiao, Yingyu Li, Guangming Shi, and Mehdi Bennis, "Life-Long Learning for Reasoning-Based Semantic Communication," IEEE International Conference on Communications (ICC) Workshop, Seoul, South Korea, May 2022. [Paper](https://arxiv.org/pdf/2202.01952.pdf)
+
+Patent
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+- Yong Xiao, Guangming Shi, ***Jingming Liang***, Yingyu Li, "Automatic construction, updating method, semantic encoder and communication architecture of semantic knowledge base". [Grant No. ZL202210070546.9]
