@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
 - M. Sc. in Communication Engineering, 2020-2023
 
   Huazhong University of Science and Technology, Wuhan, Hubei, China
@@ -22,7 +20,7 @@ Education
 Paper
 ======
 
-- ***Jingming Liang***, Yong Xiao, Yingyu Li, Guangming Shi, and Mehdi Bennis, "Life-Long Learning for Reasoning-Based Semantic Communication," IEEE International Conference on Communications (ICC) Workshop, Seoul, South Korea, May 2022. [Paper](https://arxiv.org/pdf/2202.01952.pdf)
+- ***Jingming Liang***, Yong Xiao, Yingyu Li, Guangming Shi, and Mehdi Bennis, "Life-Long Learning for Reasoning-Based Semantic Communication," IEEE International Conference on Communications (ICC) Workshop, Seoul, South Korea, May 2022. [[Paper](https://arxiv.org/pdf/2202.01952.pdf)]
 
 Patent
 ======
