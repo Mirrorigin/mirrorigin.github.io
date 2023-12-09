@@ -1,7 +1,7 @@
 ---
 title: "Life-Long Learning for Reasoning-Based Semantic Communication"
 collection: publications
-permalink: /publication/paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about a novel architecture for semantic communication.'
 date: 2022-5
 venue: 'Conference Paper'
