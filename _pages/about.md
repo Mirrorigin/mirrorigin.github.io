@@ -39,4 +39,4 @@ My research interest includes video processing, object detection and tracking, a
 International Joint Conference on Artificial Intelligence (IJCAI, CCF-A/Core-A*), 2024.
 - Patent
 
-  - Yong Xiao, Guangming Shi, ***Jingming Liang***, Yingyu Li, "Automatic construction, updating method, semantic encoder and communication architecture of semantic knowledge base". [Grant No. ZL202210070546.9]
+  - Y. Xiao, G. Shi, ***J. Liang***, Y. Li, "Automatic construction, updating method, semantic encoder and communication architecture of semantic knowledge base". [Grant No. ZL202210070546.9]
