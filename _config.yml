@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Jingming Liang"
   avatar           : "Myprofile.png"
-  bio              : "Research Assistant, The Hong Kong Polytechnic University"
-  location         : # "Hong Kong"
+  bio              : "PhD Student, The University of Iowa"
+  location         : "USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : jimmy.liang@polyu.edu.hk
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : jingmliang@uiowa.edu
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "academicpages"
+  github           : https://github.com/Mirrorigin
   google_plus      :
   keybase          :
   instagram        :
