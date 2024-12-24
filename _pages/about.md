@@ -8,28 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research assistant from [Department of Computing](https://www.polyu.edu.hk/comp/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interest includes Zero-shot Learning, Semantics, Graph Learning.
+I'm a PhD student from _University of Iowa_, my major is Computer Engineering. Currently, I am working with **IntelliSee** under the guidance of **Prof. Hans**.
 
-Currently, I am very fortunate to be advised by [Dr. Guo](https://jingcaiguo.github.io/). I was advised by [Prof. Xiao](https://sites.google.com/site/xyong2007/) from [School of Electronic Information and Communications](https://ei.hust.edu.cn/index.htm), [Huazhong University of Science and Technology](https://hust.edu.cn/).
+My research interest includes video processing, object detection and tracking, and software engineering development.
 
-Education
-======
+# Education
 
-- M. Sc. in Communication Engineering, 2020-2023
+- M. Sc. in _Communication Engineering_, 2020.9-2023.6
 
-  Huazhong University of Science and Technology, Wuhan, Hubei, China
+  - Huazhong University of Science and Technology, Wuhan, Hubei, China
+  - Advised by **Prof. Yong Xiao** on Semantic Communication research.
 
-- B. Sc. in Electronic Information Engineering, 2016-2020
+- B. Sc. in Electronic _Information Engineering_, 2016.9-2020.6
 
-  Huazhong University of Science and Technology, Wuhan, Hubei, China
+  - Huazhong University of Science and Technology, Wuhan, Hubei, China
 
-Publications
-======
+# Experience
+
+- Research Assistant, 2023.9-2024.3
+  
+  - Department of Computing, The Hong Kong Polytechnic University, HKSAR
+  - Advised by **Dr. Jingcai Guo** while working on Zero-shot Learning.
+
+# Publications
 
 - Conference Paper
 
-  ***Jingming Liang***, Yong Xiao, Yingyu Li, Guangming Shi, and Mehdi Bennis, "Life-Long Learning for Reasoning-Based Semantic Communication," IEEE International Conference on Communications (ICC) Workshop, Seoul, South Korea, May 2022. [[Paper](https://arxiv.org/pdf/2202.01952.pdf)]
-
+  - ***J. Liang***, Y. Xiao, Y. Li, G. Shi, and Mehdi Bennis, "Life-Long Learning for Reasoning-Based Semantic Communication," IEEE International Conference on Communications (ICC) Workshop, Seoul, South Korea, May 2022. [[Paper](https://arxiv.org/pdf/2202.01952.pdf)]
+  - Z. Rao, J. Guo, X. Lu, ***J. Liang***, J. Zhang, H. Wang, K. Wei, X. Cao, "Dual Expert Distillation Network for Generalized Zero-Shot Learning",
+International Joint Conference on Artificial Intelligence (IJCAI, CCF-A/Core-A*), 2024.
 - Patent
 
-  Yong Xiao, Guangming Shi, ***Jingming Liang***, Yingyu Li, "Automatic construction, updating method, semantic encoder and communication architecture of semantic knowledge base". [Grant No. ZL202210070546.9]
+  - Yong Xiao, Guangming Shi, ***Jingming Liang***, Yingyu Li, "Automatic construction, updating method, semantic encoder and communication architecture of semantic knowledge base". [Grant No. ZL202210070546.9]
